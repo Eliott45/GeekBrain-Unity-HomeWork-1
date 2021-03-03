@@ -1,3 +1,3 @@
-GeekBrain Unity HomeWork #1
+h2 GeekBrain Unity HomeWork #1
 <br> 
-1. Download and explore how 3D Beginner: Complete Project is designed. Completed
+1. Download and explore how 3D Beginner: Complete Project is designed. **Completed**
