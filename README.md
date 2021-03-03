@@ -2,4 +2,4 @@
 -----------------------------------
 <br> 
 1. Download and explore how 3D Beginner: Complete Project is designed.  <br>
-2. **Completed**
+- [x] this is a complete item
